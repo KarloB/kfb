@@ -1,0 +1,5 @@
+{
+    "db": "https://yourproject.firebaseio.com",
+    "key": "yoursecretkey",
+    "timeout": 10
+}
