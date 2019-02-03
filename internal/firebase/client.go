@@ -3,7 +3,7 @@ package firebase
 import (
 	"time"
 
-	"github.com/karlob/fbk/internal/model/conf"
+	"github.com/KarloB/kfb/internal/model/conf"
 
 	"github.com/zabawaba99/fireauth"
 	"github.com/zabawaba99/firego"

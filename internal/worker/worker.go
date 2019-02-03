@@ -3,7 +3,7 @@ package worker
 import (
 	"log"
 
-	"github.com/karlob/fbk/internal/firebase"
+	"github.com/KarloB/kfb/internal/firebase"
 )
 
 // Worker sync worker

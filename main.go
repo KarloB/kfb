@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/karlob/fbk/internal/firebase"
-	"github.com/karlob/fbk/internal/model/conf"
-	"github.com/karlob/fbk/internal/worker"
+	"github.com/KarloB/kfb/internal/firebase"
+	"github.com/KarloB/kfb/internal/model/conf"
+	"github.com/KarloB/kfb/internal/worker"
 )
 
 var (
